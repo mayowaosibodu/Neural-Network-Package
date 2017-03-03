@@ -1,3 +1,4 @@
 # Neural-Network-Package
 
-I'm presently focused on giving myself a very lucid understanding of neural networks. As I progress in understanding, I'll describe what I learn, in my own way, from scratch, here in code. In the end this should be neural network package with the functional essentials.
+This was me working to gain a lucid understandng of neural networks and the working principles behind them.
+Building this helped provide the foundation to work with established neural net conventions and libraries.
